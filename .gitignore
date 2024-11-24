@@ -1,0 +1,13 @@
+# Pastas e arquivos gerados pelo Visual Studio
+.vs/
+*.VC.opendb
+*.VC.db
+*.suo
+*.user
+*.filters
+Debug/
+Release/
+
+# Arquivos do sistema operacional
+Thumbs.db
+desktop.ini		
